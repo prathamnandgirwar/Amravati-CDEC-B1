@@ -127,9 +127,7 @@ DevOps plays a crucial role in modern IT companies by enabling smooth collaborat
 Understanding:
 - How IT companies work  
 - What applications are  
-- Roles of Developers, Testers, and DevOps Engineers  
-
-is essential for every aspiring DevOps professional.
+- Roles of Developers, Testers, and DevOps Engineers is essential for every aspiring DevOps professional.
 
 ---
 
