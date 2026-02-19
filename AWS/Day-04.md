@@ -10,7 +10,8 @@ step 4:- chechk nginx status
          nginx -v
 
 step 5 :- sudo apt update 
-step ^ :- sudo apt install nginx -y
+
+step 6 :- sudo apt install nginx -y
 step 7 :- sudo systemctl enable nginx
 sudo systemctl start nginx
 sudo systemctl status nginx
